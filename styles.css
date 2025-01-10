@@ -64,8 +64,3 @@ body {
   z-index: 2;
 }
 
-.btn .icons i:hover {
-  color: #0034c4;
-  transform: translateY(-5px);
-  transition: 0.3s ease;
-}
